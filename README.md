@@ -8,12 +8,12 @@ The main goal is to provide the user broader insights regarding the Washinton St
   #### Which kind of EV charging infrastructure should be developed?
 Check the presentation to find out the main conclusions: look https://www.canva.com/design/DAGT2wCgM54/UL9pv_TJao8xukofE820Zg
 
-## Electric Vehcile Data API 
+## Electric Vehicle Data API 
 Special thanks to the Electric Vehicle API for free and easy access to this resourceful data.
 Feel free to explore, but keep in mind that in order to request data from the API you need to subscribe it (still applicable to free subscription): https://rapidapi.com/adrienpelletierlaroche/api/electric-vehicle-data2 
 
 ## Other resources
-In this repository you will also find the jupyter notebook whith all the useful commands to gather all the main insights presented
+In this repository you will also find the jupyter notebook whith all the useful commands to gather all the main insights presented.
 
 ## Final remark
 Many thanks to Isidre and Nicolas, my teachers, and all my colleagues from Ironhack for all the support!
